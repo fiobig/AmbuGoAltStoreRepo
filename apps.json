@@ -1,22 +1,15 @@
 {
-    "name": "AmbuGo Repo",
-    "identifier": "com.ambugo.repo",
-    "apps": [
-        {
-            "name": "AmbuGo",
-            "bundleIdentifier": "com.ambugo.AmbuGo",
-            "developerName": "AmbuGo Team",
-            "subtitle": "Richiedi aiuto, ovunque.",
-            "version": "1.0",
-            "downloadURL": "https://example.com/AmbuGo.ipa",
-            "iconURL": "https://example.com/icon.png",
-            "localizedDescription": "App che servir\u00e0 in futuro per la chiamata di un'ambulanza di emergenza messa a disposizione da enti privati che aderiranno",
-            "tintColor": "red",
-            "screenshotURLs": [],
-            "permissions": [
-                "location",
-                "faceID"
-            ]
-        }
-    ]
+  "apps": [
+    {
+      "name": "AmbuGo",
+      "identifier": "com.ambugo.AmbuGo",
+      "subtitle": "Chiedi un'ambulanza privata con un tap",
+      "version": "1.0",
+      "versionDate": "2025-03-27",
+      "versionDescription": "Prima versione disponibile di AmbuGo.",
+      "downloadURL": "https://github.com/fiobig/AmbuGoAltStoreRepo/AmbuGoAltStoreRepo/AmbuGo.ipa",
+      "iconURL": "https://github.com/fiobig/AmbuGoAltStoreRepo/AmbuGoAltStoreRepo/icon.png",
+      "tintColor": "red"
+    }
+  ]
 }
