@@ -1,0 +1,22 @@
+{
+    "name": "AmbuGo Repo",
+    "identifier": "com.ambugo.repo",
+    "apps": [
+        {
+            "name": "AmbuGo",
+            "bundleIdentifier": "com.ambugo.AmbuGo",
+            "developerName": "AmbuGo Team",
+            "subtitle": "Richiedi aiuto, ovunque.",
+            "version": "1.0",
+            "downloadURL": "https://example.com/AmbuGo.ipa",
+            "iconURL": "https://example.com/icon.png",
+            "localizedDescription": "App che servir\u00e0 in futuro per la chiamata di un'ambulanza di emergenza messa a disposizione da enti privati che aderiranno",
+            "tintColor": "red",
+            "screenshotURLs": [],
+            "permissions": [
+                "location",
+                "faceID"
+            ]
+        }
+    ]
+}
