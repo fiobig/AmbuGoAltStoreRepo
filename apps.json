@@ -14,7 +14,8 @@
         "iconURL": "https://raw.githubusercontent.com/fiobig/AmbuGoAltStoreRepo/main/icon.png",
         "localizedDescription": "App per richiedere un'ambulanza da enti privati aderenti.",
         "screenshotURLs": [],
-        "tintColor": "#FF3B30"
+        "tintColor": "#FF3B30",
+        "size": 8630688
       }
     ]
   }
