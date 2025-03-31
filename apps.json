@@ -1,21 +1,22 @@
+
 {
-    "name": "AmbuGo Repo",
-    "identifier": "com.ambugo.repo",
-    "apps": [
-      {
-        "name": "AmbuGo",
-        "bundleIdentifier": "com.ambugo.AmbuGo",
-        "developerName": "Fiorenzo Carino",
-        "subtitle": "Richiedi un'ambulanza privata con un tap",
-        "version": "1.0",
-        "versionDate": "2025-03-27",
-        "versionDescription": "Prima versione disponibile di AmbuGo.",
-        "downloadURL": "https://github.com/fiobig/AmbuGoAltStoreRepo/raw/main/AmbuGo.ipa",
-        "iconURL": "https://raw.githubusercontent.com/fiobig/AmbuGoAltStoreRepo/main/icon.png",
-        "localizedDescription": "App per richiedere un'ambulanza da enti privati aderenti.",
-        "screenshotURLs": [],
-        "tintColor": "#FF3B30",
-        "size": 8630688
-      }
-    ]
-  }
+  "name": "AmbuGo Repo",
+  "identifier": "com.ambugo.repo",
+  "apps": [
+    {
+      "name": "AmbuGo",
+      "bundleIdentifier": "com.ambugo.AmbuGo",
+      "developerName": "Fiorenzo Carino",
+      "subtitle": "Richiedi un'ambulanza privata con un tap",
+      "version": "0.2",
+      "versionDate": "2025-03-31",
+      "versionDescription": "Primi fix disponibile di AmbuGo.",
+      "downloadURL": "https://github.com/fiobig/AmbuGoAltStoreRepo/raw/main/AmbuGo.ipa",
+      "iconURL": "https://raw.githubusercontent.com/fiobig/AmbuGoAltStoreRepo/main/icon.png",
+      "localizedDescription": "App per richiedere un'ambulanza da enti privati aderenti.",
+      "screenshotURLs": [],
+      "tintColor": "#FF3B30",
+      "size": 8696843 
+    }
+  ]
+}
